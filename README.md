@@ -2,7 +2,7 @@
 
 # Michael - Portfolio
 
-##About Me
+## About Me
 I am an aspiring Game Developer who likes to practice and experiments features
 or prototypes whenever an idea comes by.
 
