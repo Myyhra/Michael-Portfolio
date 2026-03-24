@@ -12,34 +12,34 @@ Project list:
 GameProg3
 -Collection of experiments during Game Programming Class
 -Unity Game Engine
-[Github Link](https://github.com/Myyhra/GameProg3)
+-[Github Link](https://github.com/Myyhra/GameProg3)
 
 Portal
 -Shader Project on how to make a flat portal
 -Unity Game Engine
-[Github Link](https://github.com/Myyhra/Portal)
+-[Github Link](https://github.com/Myyhra/Portal)
 
 Depth Texture
 -Experimenting with Depth Texture in Shadergraph
 -Unity Game Engine
-[Github Link](https://github.com/Myyhra/Depth-Texture)
+-[Github Link](https://github.com/Myyhra/Depth-Texture)
 
 
 Simple Explosion
 -Explosion asset using the Particle System
 -Unity Game Engine
-[Github Link](https://github.com/Myyhra/Depth-Texture)
+-[Github Link](https://github.com/Myyhra/Depth-Texture)
 
 FireworksVFX
 -A firework scene using Particle System
 -Unity Game Engine
-[Github Link](https://github.com/Myyhra/FireworksVFX)
+-[Github Link](https://github.com/Myyhra/FireworksVFX)
 
 
 STSVR
 -A VR game prototype where a player punches incoming blocks to gain a point
 -Unity Game Engine
-[Github Link](https://github.com/Myyhra/STSVR)
+-[Github Link](https://github.com/Myyhra/STSVR)
 
 
 
