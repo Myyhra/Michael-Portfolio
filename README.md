@@ -11,11 +11,9 @@ Project list:
 
 GameProg3
 
-Collection of experiments during Game Programming Class
-
-Unity Game Engine
-
-[Github Link](https://github.com/Myyhra/GameProg3)
+-Collection of experiments during Game Programming Class
+-Unity Game Engine
+-[Github Link](https://github.com/Myyhra/GameProg3)
 
 Portal
 -Shader Project on how to make a flat portal
