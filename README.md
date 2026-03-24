@@ -1,15 +1,17 @@
 
 
-Hello my name is Michael.
+#Michael - Portfolio
 
+##About Me
 I am an aspiring Game Developer who likes to practice and experiments features
 or prototypes whenever an idea comes by.
 
+##CV
 [My CV](https://docs.google.com/document/d/1wMc3lr_o7aCrGoIgDf4LysMECzfuWp7Mq8khuWnNeq8/edit?usp=sharing)
 
-Project list:
+##Project list:
 
-GameProg3
+###GameProg3
 
 -Collection of experiments during Game Programming Class
 
@@ -18,7 +20,7 @@ GameProg3
 -[Github Link](https://github.com/Myyhra/GameProg3)
 
 
-Portal
+###Portal
 
 -Shader Project on how to make a flat portal
 
@@ -27,7 +29,7 @@ Portal
 -[Github Link](https://github.com/Myyhra/Portal)
 
 
-Depth Texture
+###Depth Texture
 
 -Experimenting with Depth Texture in Shadergraph
 
@@ -36,7 +38,7 @@ Depth Texture
 -[Github Link](https://github.com/Myyhra/Depth-Texture)
 
 
-Simple Explosion
+###Simple Explosion
 
 -Explosion asset using the Particle System
 
@@ -44,7 +46,7 @@ Simple Explosion
 
 -[Github Link](https://github.com/Myyhra/Depth-Texture)
 
-FireworksVFX
+###FireworksVFX
 
 -A firework scene using Particle System
 
@@ -53,7 +55,7 @@ FireworksVFX
 -[Github Link](https://github.com/Myyhra/FireworksVFX)
 
 
-STSVR
+###STSVR
 -A VR game prototype where a player punches incoming blocks to gain a point
 
 -Made in Unity Game Engine
@@ -62,8 +64,7 @@ STSVR
 
 
 
-
-Technical Skills:
+##Technical Skills:
 
 Game Engine: Unity Game Engine
 Programming: C#
