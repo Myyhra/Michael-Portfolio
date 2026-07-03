@@ -62,6 +62,12 @@ or prototypes whenever an idea comes by.
 
 -[Github Link](https://github.com/Myyhra/STSVR)
 
+### Simple Dialogue prototype
+
+-Made in Unity Game Engine
+
+-[Github Link](https://github.com/Myyhra/SimpleDialogue)
+
 
 
 ## Technical Skills:
